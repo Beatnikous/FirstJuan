@@ -1,0 +1,24 @@
+$color-main: #000000;
+$color-secondary: #ffffff;
+$color-accent: #b000ff;
+
+header {
+    font-size: 30px;
+    background-color: $color-secondary;
+}
+
+#navbar {
+    background-image: linear-gradient($color-main,$color-accent);
+    color: $color-secondary;
+    height: 100px;
+    div{text-align: center;}
+}
+
+#main {
+    background-color: $color-accent;
+}
+
+footer {
+    color: $color-secondary;
+    background-color: $color-main;
+}

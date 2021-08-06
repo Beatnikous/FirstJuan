@@ -1,0 +1,17 @@
+header {
+  font-size: 30px;
+  background-color: #ffffff; }
+
+#navbar {
+  background-image: linear-gradient(#000000, #b000ff);
+  color: #ffffff;
+  height: 100px; }
+  #navbar div {
+    text-align: center; }
+
+#main {
+  background-color: #b000ff; }
+
+footer {
+  color: #ffffff;
+  background-color: #000000; }
